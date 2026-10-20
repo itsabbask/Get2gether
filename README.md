@@ -8,6 +8,7 @@ Static, responsive draft of theget2gether.com built from the approved website co
 - `services.html` Services (Catering, Private Dining, Corporate & Brand Events)
 - `experiences.html` Experiences (Supper Clubs, Pop-Ups, Seasonal Specials)
 - `menus.html` Menus
+- `appetizers.html` Menus › Appetizers (five collections with filter; photos are illustrative references from the appetizer moodboard until real dish photography is ready)
 - `gallery.html` Gallery with category filter
 - `faq.html` FAQ accordion
 - `inquire.html` 4 step inquiry form (front end only, no submission backend yet)
